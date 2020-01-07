@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <PackageReference Include="FcmSharp" Version="3.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+=======
+    <PackageReference Include="FirebaseAdmin" Version="1.9.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+>>>>>>> 9b51670ccbb112db2b4c64d9beabba662d01d438
+    <PackageReference Include="PayPal" Version="2.0.0-rc2" />
+    <PackageReference Include="Twilio" Version="5.36.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlineShop.DataAccess\OnlineShop.DataAccess.csproj" />
+    <ProjectReference Include="..\OnlineShop.DTO\OnlineShop.DTO.csproj" />
+    <ProjectReference Include="..\OnlineShop.Options\OnlineShop.Options.csproj" />
+  </ItemGroup>
+
+</Project>

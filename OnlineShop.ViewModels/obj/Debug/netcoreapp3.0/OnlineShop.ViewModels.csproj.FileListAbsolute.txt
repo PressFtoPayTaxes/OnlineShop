@@ -1,0 +1,16 @@
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.deps.json
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.csprojAssemblyReference.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfo.cs
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+Z:\ASP.NET\OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.deps.json
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\bin\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.AssemblyInfo.cs
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.dll
+C:\Users\Admin\Documents\_STEP_OnlineShop\OnlineShop.ViewModels\obj\Debug\netcoreapp3.0\OnlineShop.ViewModels.pdb
